@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.AssemblyInfo.cs
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.sourcelink.json
+/Users/talal/Desktop/Project Back_End/bin/Debug/net10.0/Project Back_End
+/Users/talal/Desktop/Project Back_End/bin/Debug/net10.0/Project Back_End.deps.json
+/Users/talal/Desktop/Project Back_End/bin/Debug/net10.0/Project Back_End.runtimeconfig.json
+/Users/talal/Desktop/Project Back_End/bin/Debug/net10.0/Project Back_End.dll
+/Users/talal/Desktop/Project Back_End/bin/Debug/net10.0/Project Back_End.pdb
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.dll
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/refint/Project Back_End.dll
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.pdb
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/Project Back_End.genruntimeconfig.cache
+/Users/talal/Desktop/Project Back_End/obj/Debug/net10.0/ref/Project Back_End.dll
